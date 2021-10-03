@@ -1,2 +1,5 @@
 # ViralTweets with BERT
-Aalto's project: Predict tweet vitality
+
+<b>Aalto's project</b>: Predict tweet vitality
+
+This repo is to upload codes that I'm responsible for in this group project.
